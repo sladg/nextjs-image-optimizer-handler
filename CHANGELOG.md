@@ -1,6 +1,11 @@
 # Changelog
 
 
+## [v7.4.1](https://github.com/sladg/nextjs-lambda/compare/v7.4.0...v7.4.1)
+
+* doc(EOL): Update README.md [[ea6eb80c931a34939a4c9d69361cca3f0fc124dc](https://github.com/sladg/nextjs-lambda/commit/ea6eb80c931a34939a4c9d69361cca3f0fc124dc))]
+
+
 ## [v7.4.0](https://github.com/sladg/nextjs-lambda/compare/v7.0.6...v7.4.0)
 
 * build(deps-dev): bump rollup from 3.8.1 to 3.29.5 [[3091f9c70bc39d2e1ddb76702bc90e18f2269256](https://github.com/sladg/nextjs-lambda/commit/3091f9c70bc39d2e1ddb76702bc90e18f2269256))]
@@ -534,6 +539,7 @@
 
 ## [v0.1.0](https://github.com/sladg/nextjs-lambda/compare/v0.1.0)
 
+* doc(EOL): Update README.md [[ea6eb80c931a34939a4c9d69361cca3f0fc124dc](https://github.com/sladg/nextjs-lambda/commit/ea6eb80c931a34939a4c9d69361cca3f0fc124dc))]
 * build(deps-dev): bump rollup from 3.8.1 to 3.29.5 [[3091f9c70bc39d2e1ddb76702bc90e18f2269256](https://github.com/sladg/nextjs-lambda/commit/3091f9c70bc39d2e1ddb76702bc90e18f2269256))]
 * build(deps): bump braces from 3.0.2 to 3.0.3 [[7d47765e1b2e910e71db2e144050c1f08ceb8b6e](https://github.com/sladg/nextjs-lambda/commit/7d47765e1b2e910e71db2e144050c1f08ceb8b6e))]
 * build(deps-dev): bump word-wrap from 1.2.3 to 1.2.4 [[df495edc9cb6f084f64fa10c92b495c53592cb7b](https://github.com/sladg/nextjs-lambda/commit/df495edc9cb6f084f64fa10c92b495c53592cb7b))]
