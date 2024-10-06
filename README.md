@@ -1,5 +1,12 @@
 # NextJS Lambda Utils
 
+## EOL
+
+I would like to encourage everyone to switch to successor - [OpenNext](https://github.com/opennextjs/opennextjs-aws).
+This package is EOL and won't be actively maitained. Newer versions of NextJS might not work.
+
+---
+
 This is a project allowing to deploy Next applications (standalone options turned on) to AWS Lambda without hassle.
 
 This is an alternative to existing Lambda@Edge implementation ([see](https://www.npmjs.com/package/@sls-next/lambda-at-edge)) as it has too many limitations (primarily inability to use env vars) and deployments take too long.
