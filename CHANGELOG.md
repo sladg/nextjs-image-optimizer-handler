@@ -1,6 +1,14 @@
 # Changelog
 
 
+## [v7.4.0](https://github.com/sladg/nextjs-lambda/compare/v7.0.6...v7.4.0)
+
+* build(deps-dev): bump rollup from 3.8.1 to 3.29.5 [[3091f9c70bc39d2e1ddb76702bc90e18f2269256](https://github.com/sladg/nextjs-lambda/commit/3091f9c70bc39d2e1ddb76702bc90e18f2269256))]
+* build(deps): bump braces from 3.0.2 to 3.0.3 [[7d47765e1b2e910e71db2e144050c1f08ceb8b6e](https://github.com/sladg/nextjs-lambda/commit/7d47765e1b2e910e71db2e144050c1f08ceb8b6e))]
+* build(deps-dev): bump word-wrap from 1.2.3 to 1.2.4 [[df495edc9cb6f084f64fa10c92b495c53592cb7b](https://github.com/sladg/nextjs-lambda/commit/df495edc9cb6f084f64fa10c92b495c53592cb7b))]
+* build(deps): bump aws-cdk-lib from 2.66.1 to 2.84.0 [[dd7fc96d5071764f4f5ea4ae484a93c0e0249778](https://github.com/sladg/nextjs-lambda/commit/dd7fc96d5071764f4f5ea4ae484a93c0e0249778))]
+
+
 ## [v7.0.6](https://github.com/sladg/nextjs-lambda/compare/v7.0.5...v7.0.6)
 
 * 🐛 fix(buffer in body): request body would not get parsed by nextjs [[27a2b86698d9f60c7323fc05177d226abc259a17](https://github.com/sladg/nextjs-lambda/commit/27a2b86698d9f60c7323fc05177d226abc259a17))]
@@ -526,6 +534,10 @@
 
 ## [v0.1.0](https://github.com/sladg/nextjs-lambda/compare/v0.1.0)
 
+* build(deps-dev): bump rollup from 3.8.1 to 3.29.5 [[3091f9c70bc39d2e1ddb76702bc90e18f2269256](https://github.com/sladg/nextjs-lambda/commit/3091f9c70bc39d2e1ddb76702bc90e18f2269256))]
+* build(deps): bump braces from 3.0.2 to 3.0.3 [[7d47765e1b2e910e71db2e144050c1f08ceb8b6e](https://github.com/sladg/nextjs-lambda/commit/7d47765e1b2e910e71db2e144050c1f08ceb8b6e))]
+* build(deps-dev): bump word-wrap from 1.2.3 to 1.2.4 [[df495edc9cb6f084f64fa10c92b495c53592cb7b](https://github.com/sladg/nextjs-lambda/commit/df495edc9cb6f084f64fa10c92b495c53592cb7b))]
+* build(deps): bump aws-cdk-lib from 2.66.1 to 2.84.0 [[dd7fc96d5071764f4f5ea4ae484a93c0e0249778](https://github.com/sladg/nextjs-lambda/commit/dd7fc96d5071764f4f5ea4ae484a93c0e0249778))]
 * 🐛 fix(buffer in body): request body would not get parsed by nextjs [[27a2b86698d9f60c7323fc05177d226abc259a17](https://github.com/sladg/nextjs-lambda/commit/27a2b86698d9f60c7323fc05177d226abc259a17))]
 * 🐛 fix(caching): properly set API caching as previous syntax was not working [[7480a8624dd5d7a35162c95e49c091edd7d07e5f](https://github.com/sladg/nextjs-lambda/commit/7480a8624dd5d7a35162c95e49c091edd7d07e5f))]
 * fixing API cache default [[4797ecdc4184572bc6955f2e5b641e7d2dbb1a5a](https://github.com/sladg/nextjs-lambda/commit/4797ecdc4184572bc6955f2e5b641e7d2dbb1a5a))]
